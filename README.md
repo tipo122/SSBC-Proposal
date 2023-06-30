@@ -9,7 +9,7 @@ https://www.linkedin.com/in/akihiro-nishiyama-5a331b38/
 キャリアのスタートはWindowsアプリの、その後主にWebの開発を専門としています。
 
 ## 作りたいもの
-アイディアをいくつか挙げてみました。
+アイディアを２つ挙げてみました。
 ShoppingListは実際に妻と作ってみているプロジェクトです。
 プロポーザルの大枠はChatGPTに書いてもらいました。
 
